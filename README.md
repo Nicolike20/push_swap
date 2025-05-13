@@ -15,7 +15,7 @@ You must write two programs:
 1. `push_swap` – receives a list of integers and outputs the operations needed to sort them.
 2. `checker` *(optional/bonus)* – checks if a sequence of operations sorts a list correctly.
 
----
+--- 
 
 ## 🔧 Allowed Operations
 
